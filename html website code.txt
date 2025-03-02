@@ -10,7 +10,7 @@
 <body>
     <header>
         <div class="logo">
-            <h1>Mr. Nuno's Projects</h1>
+            <h1>Mr. Nuno's Projects</h1
         </div>
         <nav>
             <ul>
